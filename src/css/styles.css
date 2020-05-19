@@ -1,0 +1,9 @@
+@import "../../node_modules/bootstrap/dist/css/bootstrap.min.css";
+h1 {
+  color: yellow;
+}
+body {
+  color: green;
+  background: #5c1212;
+  height: 400vh;
+}
